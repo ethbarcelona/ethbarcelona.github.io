@@ -6,42 +6,6 @@
   url: "/"
   side: left
 
-- title: Papers
-  url: "/technical"
-  side: left
-
-- title: Authors
-  url: "/authors"
-  side: left
-
-- title: Workshops
-  url: "/workshops"
-  side: left
-
-- title: Posters
-  url: "/posters"
-  side: left
-
-- title: Program
-  url: "/program"
-  side: left
-
-- title: Mentoring
-  url: "/student"
-  side: left
-
-- title: Registration
-  url: "/registration"
-  side: left
-
-- title: Committees
-  url: "/committees"
-  side: left
-
-- title: Venue
-  url: "/venue"
-  side: left
-
 
 
 

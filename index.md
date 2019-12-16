@@ -3,29 +3,17 @@ layout: page
 #
 # Content
 #
-subheadline: "IEEE Cluster 2017"
+subheadline: "EthBarcelona 2020"
 title: "Welcome!"
-teaser: "September 5th - 8th, 2017, Hawaii, USA."
+teaser: "May 15th, 2020, Barcelona."
 header:
    image_fullwidth: "hawaii.jpg"
    permalink: "/"
 ---
 
 
-The IEEE Cluster Conference serves as a major international forum for
-presenting and sharing recent accomplishments and technological developments in
-the field of cluster computing as well as the use of cluster systems for
-scientific and commercial applications. Cluster 2017 involves participants
-(researchers, developers, and users) from academia, industry, laboratories, and
-commerce, coming together to discuss recent advances and trends in, but not
-limited to:
+EthBarcelona is the Ethereum event hosted in Barcelona. The main objective
+of this event is to present updates on the Research and Development aspects
+of Ethereum. 
 
- - Applications, Algorithms, and Libraries
- - Architecture, Networks/Communication, and Management
- - Programming and Systems Software
- - Data, Storage, and Visualization
-
-
-<img src="images/sighpc.png" width="200">
-<img src="images/ieee.gif" width="200">
 
