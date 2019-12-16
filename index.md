@@ -7,7 +7,7 @@ subheadline: "EthBarcelona 2020"
 title: "Welcome!"
 teaser: "May 15th, 2020, Barcelona."
 header:
-   image_fullwidth: "hawaii.jpg"
+   image_fullwidth: "bbcn1.jpg"
    permalink: "/"
 ---
 
