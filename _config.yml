@@ -8,15 +8,15 @@
 #                                                 /____/
 #
 # Title of your website
-title: "IEEE Cluster 2017"
+title: "Eth Barcelona"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "International Conference on Cluster Computing"
+slogan: "Eth Barcelona"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "Website for IEEE Cluster 2017, September 2017, Hawaii, USA"
+description: "Website for Eth Barcelona, May 15th 2020, Barcelona"
 
 # Main author of the website
 # See > authors.yml
@@ -24,7 +24,7 @@ author: leobago
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://cluster17.github.io'
+url: 'https://ethbarcelona.github.io'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
