@@ -11,7 +11,7 @@ header:
    permalink: "/contact/"
 ---
 
-<table border="1" style="width:750px; text-align:center; vertical-align=middle; border:1px solid black; ">
+<table border="1" style="width:250px; text-align:center; vertical-align=middle; border:1px solid black; ">
  
  <tr>
   <th width="25">  </th>
