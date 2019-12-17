@@ -7,7 +7,7 @@ subheadline: "Tentative Schedule"
 title: "Technical Program"
 teaser: ""
 header:
-   image_fullwidth: "hawaii.jpg"
+   image_fullwidth: "bbcn1.jpg"
    permalink: "/contact/"
 ---
 
@@ -48,7 +48,7 @@ header:
 
  <tr>
   <td> 30 </td>
-  <td colspan="1" rowspan="2" style="background: #7cf"><b> Session 1: </b> TBD </td>
+  <td colspan="1" rowspan="3" style="background: #7cf"><b> Session 1: </b> TBD </td>
  </tr>
 
  <tr>
@@ -58,17 +58,17 @@ header:
 
  <tr>
   <td> 30 </td>
-  <td colspan="1" rowspan="1" style="text-align:center; vertical-align:middle; font-size:20px;"> Coffee Break </td>
  </tr>
 
  <tr>
   <td rowspan="2"> 11 </td>
   <td> 00 </td>
-  <td colspan="1" rowspan="3" style="background: #7cf"><b> Session 2 : </b> TBD </td>
+  <td colspan="1" rowspan="1" style="text-align:center; vertical-align:middle; font-size:20px;"> Coffee Break </td>
  </tr>
 
  <tr>
   <td> 30 </td>
+  <td colspan="1" rowspan="3" style="background: #7cf"><b> Session 2 : </b> TBD </td>
  </tr>
 
  <tr>
@@ -78,12 +78,12 @@ header:
 
  <tr>
   <td> 30 </td>
-  <td colspan="1" rowspan="3" style="text-align:center; vertical-align:middle; font-size:20px;"> Lunch </td>
  </tr>
 
  <tr>
   <td rowspan="2"> 13 </td>
   <td> 00 </td>
+  <td colspan="1" rowspan="2" style="text-align:center; vertical-align:middle; font-size:20px;"> Lunch </td>
  </tr>
 
  <tr>
