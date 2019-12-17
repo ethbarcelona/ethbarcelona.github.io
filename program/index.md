@@ -16,7 +16,7 @@ header:
  <tr>
   <th width="25">  </th>
   <th width="25">  </th>
-  <th width="200" style="text-align:center;" > Friday May 15th</th>
+  <th width="450" style="text-align:center;" > Friday May 15th</th>
  </tr>
 
 
