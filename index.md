@@ -21,7 +21,7 @@ blockchain technology. Some of the topics of interest are :
  * Layer 1 Blockchain scalability solutions such as Sharding.
  * Layer 2 blockchain scalability solutions such as State Channels.
  * Blockchain sustainability protocols such as Proof-of-Stake.
- * Blockchain security and privacy solutions through ZK-S(N/T)ARKS.
+ * Blockchain security and privacy solutions through ZK-S(N/T)ARKs.
  * Blockchain interoperability
 
 If you are interested in giving a talk at Eth Barcelona, please send an email 
