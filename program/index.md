@@ -38,7 +38,7 @@ header:
 
  <tr>
   <td> 30 </td>
-  <td colspan="2" rowspan="2" style="text-align:center; vertical-align:middle; background: #fb6;"> <b> Keynote : </b> TBD</td>
+  <td colspan="2" rowspan="2" style="text-align:center; vertical-align:middle; background: #7cf;"> <b> Keynote : </b> TBD</td>
  </tr>
 
  <tr>
@@ -107,13 +107,13 @@ header:
 
  <tr>
   <td> 30 </td>
-  <td colspan="7" rowspan="1" style="text-align:center; vertical-align:middle; font-size:20px;"> Coffee Break </td>
+  <td colspan="1" rowspan="1" style="text-align:center; vertical-align:middle; font-size:20px;"> Coffee Break </td>
  </tr>
 
  <tr>
   <td rowspan="2"> 16 </td>
   <td> 00 </td>
-  <td colspan="1" rowspan="4" style="background: #7cf"><b> Session 4 : </b> TBD </td>
+  <td colspan="1" rowspan="3" style="background: #7cf"><b> Session 4 : </b> TBD </td>
  </tr>
 
  <tr>
@@ -127,12 +127,13 @@ header:
 
  <tr>
   <td> 30 </td>
+  <td colspan="1" rowspan="1" style="text-align:center; vertical-align:middle; font-size:20px;"> Break </td>
  </tr>
 
  <tr>
   <td rowspan="2"> 18 </td>
   <td> 00 </td>
-  <td colspan="1" rowspan="4" style="text-align:center; vertical-align:middle; font-size:20px; background: #fb6;"> Reception </td>
+  <td colspan="1" rowspan="6" style="text-align:center; vertical-align:middle; font-size:20px; "> Reception </td>
  </tr>
 
  <tr>
@@ -147,6 +148,16 @@ header:
  <tr>
   <td> 30 </td>
  </tr>
+
+ <tr>
+  <td rowspan="2"> 20 </td>
+  <td> 00 </td>
+ </tr>
+
+ <tr>
+  <td> 30 </td>
+ </tr>
+
 
 </table>
 
