@@ -24,5 +24,5 @@ blockchain technology. Some of the topics of interest are :
  * Blockchain security and privacy solutions through ZK-S(N/T)ARKS.
  * Blockchain interoperability
 
-If you are interested in gining a talk, please send an email to your title
-and abstract to <b>ethbarcelona (at) gmail (dot) com</b>. Thanks!
+If you are interested in giving a talk at Eth Barcelona, please send an email 
+with your title and abstract to <b>ethbarcelona (at) gmail (dot) com</b>. Thanks!
