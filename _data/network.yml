@@ -1,12 +1,12 @@
 - menu_name: "Related Links"
 
 - name: "Ethereum"
-  url: "http://ethreum.org/"
+  url: "http://ethereum.org/"
   class: "network"
   title: "Ethereum"
 
 - name: "Ethereum Blog"
-  url: "http://blog.etherum.org"
+  url: "http://blog.ethereum.org"
   class: "network"
   title: "Ethereum Blog"
 
