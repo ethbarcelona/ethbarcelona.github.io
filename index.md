@@ -24,4 +24,4 @@ blockchain technology. Some of the topics of interest are :
  * Blockchain security and privacy solutions through ZK-S(N/T)ARKS.
  * Blockchain interoperability
 
-
+<b>If you are interested in gining a talk, please send an email to ethbarcelona (at) gmail (dot) com</b>.
