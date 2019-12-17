@@ -26,3 +26,7 @@ blockchain technology. Some of the topics of interest are :
 
 If you are interested in giving a talk at Eth Barcelona, please send an email 
 with your title and abstract to <b>ethbarcelona (at) gmail (dot) com</b>. Thanks!
+
+If you are interested in becoming a sponsor for Eth Barcelona, please send us
+an email to <b>ethbarcelona (at) gmail (dot) com</b> to know about our 
+sponsorship packages.
