@@ -47,7 +47,8 @@ header:
   <td width="125" style="text-align:center;" > <h3>Platinum</h3> </td>
   <td width="125" style="text-align:center;" > <h4>7000 EUR</h4> </td>
   <td width="250" style="text-align:center;" > 
-	2 free registration, flyer in the welcome package, poster and expo table
+	2 free registration, flyer in the welcome package, poster, expo table and 
+	5 minutes talk
   </td>
  </tr>
 
