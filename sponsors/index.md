@@ -3,12 +3,12 @@ layout: page
 #
 # Content
 #
-subheadline: "Tentative Schedule"
-title: "Technical Program"
+subheadline: "Sponsor packages"
+title: "Sponsors"
 teaser: ""
 header:
    image_fullwidth: "bbcn1.jpg"
-   permalink: "/contact/"
+   permalink: "/sponsors/"
 ---
 
 <table border="1" style="width:500px; text-align:center; vertical-align=middle; border:1px solid black; ">
