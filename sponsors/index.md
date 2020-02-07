@@ -3,7 +3,7 @@ layout: page
 #
 # Content
 #
-subheadline: "Sponsor packages"
+subheadline: "Become a sponsor"
 title: "Sponsors"
 teaser: ""
 header:
@@ -17,7 +17,7 @@ header:
 
 <h3> Become a sponsor! </h3>
 
-If you are interested on being our sponsor, don't hesitate to contact us to ethbarcelona (at) gmail (dot) com.
+If you are interested on being our sponsor, please contact us to ethbarcelona (at) gmail (dot) com.
 
 
 
