@@ -10,6 +10,12 @@
   url: "/program"
   side: left
 
+- title: Registration
+  url: "/registration"
+  side: left
+
+
+
 
 
 
