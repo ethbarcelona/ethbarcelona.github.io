@@ -3,32 +3,29 @@ layout: page
 #
 # Content
 #
-subheadline: "IEEE Cluster 2017"
+subheadline: "Eth Barcelona 2020"
 title: "Registration"
 teaser: ""
 header:
-   image_fullwidth: "hawaii.jpg"
+   image_fullwidth: "bbcn1.jpg"
    permalink: "/contact/"
 ---
 
-The early registration deadline is <b>August 7th, 2017</b>.
+The early registration deadline is <b>March 31st, 2020</b>.
 
-| Advance Registration | Early Registration | Late/Onsite Registration |
+| Registration Type | Early Registration | Late/Onsite Registration |
 |---|:-:|:-:|
-| Members Fee | $850 | $1,020  |
-| Non-members Fee  | $1,020 | $1,224 |
-| Student Members Fee  | $468 | $561 |
-| Student Non-members Fee  | $850 | $1,020 |
-| Life/Retired members Fee  | $468 | $561 |
+| Regular Fee | $100 | $130 |
+| Student Fee |  $50 |  $80 |
 
-Authors who are presenting more than 1 paper can choose to add an “additional
-paper” for each additional paper they will present at a cost of $650.
+Student ID will be asked at the registration desk for those paying the student fee.
+
 
 To proceed with your registration , please use the following <a
-href="https://www.regonline.com/cluster2017the2017ieeeinternationalconferenceonclu">
+href="https://www.regonline.com/">
 <b>link</b></a>.
 
-Registraton can be cancelled until August 25 with a refund of original registration fee minus a processing fee. No refund is provided on or after August 26.
+Registraton can be cancelled until March 31st with a refund of original registration fee minus a processing fee. No refund is provided on or after March 31st.
 
 <br>
 
