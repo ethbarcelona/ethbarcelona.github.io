@@ -23,10 +23,10 @@ Student ID will be asked at the registration desk for those paying the student f
 
 To proceed with your registration , please use the following link.
 
-<h2>
-<a href="https://barcelo.eventsair.com/ethbarcelona/registrationform/Site/Register">
+<h2><a href="https://barcelo.eventsair.com/ethbarcelona/registrationform/Site/Register">
 Registration Form</a></h2>
 
+<br/><br/>
 Registraton can be cancelled until March 31st with a refund of original registration fee minus a processing fee. No refund is provided on or after March 31st.
 
 <br>
