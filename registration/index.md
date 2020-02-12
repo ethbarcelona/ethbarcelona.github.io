@@ -21,9 +21,11 @@ The early registration deadline is <b>March 31st, 2020</b>.
 Student ID will be asked at the registration desk for those paying the student fee.
 
 
-To proceed with your registration , please use the following <a
+To proceed with your registration , please use the following link
+
+<a
 href="https://barcelo.eventsair.com/ethbarcelona/registrationform/Site/Register">
-<b>link</b></a>.
+<h1>Registration</h1></a>.
 
 Registraton can be cancelled until March 31st with a refund of original registration fee minus a processing fee. No refund is provided on or after March 31st.
 
