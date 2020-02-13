@@ -14,8 +14,13 @@
   url: "/registration"
   side: left
 
+
 - title: Sponsors
   url: "/sponsors"
+  side: right
+
+- title: Code of conduct
+  url: "/conduct"
   side: right
 
 
