@@ -24,6 +24,7 @@ blockchain technology. Some of the topics of interest are :
  * Blockchain sustainability protocols such as Proof-of-Stake.
  * Blockchain security and privacy solutions through ZK-S(N/T)ARKs.
  * Blockchain interoperability
+ * Decentralized finance
 </b>
 
 If you are interested in giving a talk at Eth Barcelona, please send an email
