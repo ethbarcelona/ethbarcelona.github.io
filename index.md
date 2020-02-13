@@ -16,17 +16,19 @@ EthBarcelona is the Ethereum event hosted in Barcelona. The main objective
 of this event is to present updates on the Research and Development aspects
 of Ethereum. The event focuses on the technical challenges that the Ethereum
 community is trying to overcome in order to enable the next generation of
-blockchain technology. Some of the topics of interest are : 
+blockchain technology. Some of the topics of interest are :
 
+<b>
  * Layer 1 Blockchain scalability solutions such as Sharding.
  * Layer 2 blockchain scalability solutions such as State Channels.
  * Blockchain sustainability protocols such as Proof-of-Stake.
  * Blockchain security and privacy solutions through ZK-S(N/T)ARKs.
  * Blockchain interoperability
+</b>
 
-If you are interested in giving a talk at Eth Barcelona, please send an email 
+If you are interested in giving a talk at Eth Barcelona, please send an email
 with your title and abstract to <b>ethbarcelona (at) gmail (dot) com</b>. Thanks!
 
 If you are interested in becoming a sponsor for Eth Barcelona, please send us
-an email to <b>ethbarcelona (at) gmail (dot) com</b> to know about our 
+an email to <b>ethbarcelona (at) gmail (dot) com</b> to know about our
 sponsorship packages.
