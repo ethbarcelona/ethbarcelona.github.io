@@ -11,25 +11,25 @@ header:
    permalink: "/contact/"
 ---
 
-## TL;DR
+### TL;DR
 
 Be excellent to each other. If a participant is, at the staff’s sole
 discretion, harassing or otherwise unacceptably impacting other participants’
 ability to enjoy the event, we at all times reserve the right to ask the offending
 person to leave.
 
-## Don't Shill ICOs
+### Don't Shill ICOs
 
 Eth Barcelona is designed for builders and developers. Do not aggressively shill ICOs
 or financial products. If unsure, ask the staff.
 
-## Be Respectful to Speakers and Audiences
+### Be Respectful to Speakers and Audiences
 
 Be mindful of volume when you’re in or near speaking halls or workshop rooms.
 Noise levels can quickly get out of control and become disruptive to the
 programming going on inside!
 
-## Harassment Policy
+### Harassment Policy
 
 We do not condone harassment against any participant, for any reason.
 Harassment includes deliberate intimidation and targeting individuals in a
@@ -48,7 +48,7 @@ else is being harassed, or have any other concerns, you can contact a Eth
 Barcelona volunteer or event staff, go to the registration desk, or info
 booth.
 
-## Remember
+### Remember
 
 Eth Barcelona is what you make of it, and as a community we can create a great
 experience for everyone.
