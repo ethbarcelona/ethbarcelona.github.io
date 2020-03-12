@@ -5,11 +5,24 @@ layout: page
 #
 subheadline: "EthBarcelona 2020"
 title: "Welcome!"
-teaser: "May 15th, 2020, Barcelona."
+teaser: "June 17th, 2020, Barcelona."
 header:
    image_fullwidth: "bbcn1.jpg"
    permalink: "/"
 ---
+
+<h2>
+
+IMPORTANT NOTICE
+
+Due to the current situation with COVID19 in Europe and the multiple travel
+bans all around the world, we are moving ethBarcelona to June 17th, hoping that
+by then the situation would have improved. We will keep updating the website
+with news as the situation evolves.
+
+Thank you for your understanding.
+
+</h2>
 
 
 EthBarcelona is the Ethereum event hosted in Barcelona. The main objective
