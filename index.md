@@ -18,9 +18,9 @@ IMPORTANT NOTICE <br><br>
 Due to the current situation with COVID19 in Europe and the multiple travel
 bans all around the world, we are moving ethBarcelona to June 17th, hoping that
 by then the situation would have improved. We will keep updating the website
-with news as the situation evolves.<br>
+with news as the situation evolves.<br><br>
 
-Thank you for your understanding.<br>
+Thank you for your understanding.<br><br>
 
 </h3>
 

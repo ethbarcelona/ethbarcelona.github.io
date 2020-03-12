@@ -12,11 +12,11 @@ header:
 ---
 
 <table border="1" style="width:500px; text-align:center; vertical-align=middle; border:1px solid black; ">
- 
+
  <tr>
   <th width="25">  </th>
   <th width="25">  </th>
-  <th width="450" style="text-align:center;" > Friday May 15th</th>
+  <th width="450" style="text-align:center;" > Wednesday June 17th</th>
  </tr>
 
 
